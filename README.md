@@ -1,5 +1,5 @@
 
-# Master en Data Science y IA 
+# Master en Data Science y AI 
 
 
 
