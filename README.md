@@ -10,7 +10,7 @@
 ![Logo](https://github.com/LaurieBetancourt/Master-DataScience-AI-Devf/blob/main/imgs/logo.png)
 
 
-## Descripcion
+## Descripción
 
 En este repositorio se encuentran los ejercicios y proyectos realizados
 en la maestria de *Data science y AI* de la escuela de tecnología *Devf*.
