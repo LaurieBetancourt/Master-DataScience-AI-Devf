@@ -30,7 +30,7 @@ en la maestria de *Data science y AI* de la escuela de tecnología *Devf*.
     - Transformación a datos ordenados (tidy data)
     - Limpieza de datos con Python (problemas más comunes)
     - Análisis exploratorio de datos con herramientas de visualización
-3. **FUNDAMENTOS**
+3. **FUNDAMENTOS MATEMÁTICOS PARA LA CIENCIA DE DATOS**
     - Fundamentos de cálculo para entrenar y optimizar tus modelos de machine learning
     - Algebra Lineal aplicada al machine learning
         - Vectores, Matrices y Tensores
